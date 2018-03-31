@@ -10,5 +10,5 @@ Minijuego desarrollado cómo voluntario para un centro.
 - [X] Pantalla principal con listado de juegos
 - [ ] Borrar Partidas
 - [ ] Registro y Login para la plataforma
-- [ ] Exportar cómo proyectos locales
+- [ ] Exportar cómo partidas locales
 - [ ] Limpieza y Reestructuración de código
