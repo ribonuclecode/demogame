@@ -1,0 +1,77 @@
+{"frames": {
+
+"bird00.png":{
+	"frame": {"x":13,"y":0,"w":168,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":109},
+	"sourceSize": {"w":168,"h":109}
+},
+"bird01.png":{
+	"frame": {"x":195,"y":11,"w":179,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":89},
+	"sourceSize": {"w":179,"h":89}
+	
+},
+"bird02.png":{
+	"frame": {"x":392,"y":21,"w":173,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":80},
+	"sourceSize": {"w":173,"h":80}
+	
+},
+
+"bird03.png":{
+	"frame": {"x":109,"y":171,"w":167,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":90},
+	"sourceSize": {"w":167,"h":90}
+	
+},
+"bird04.png":{
+	"frame": {"x":294,"y":167,"w":167,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":105},
+	"sourceSize": {"w":167,"h":105}
+	
+},
+"bird05.png":{
+	"frame": {"x":11,"y":323,"w":173,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":128},
+	"sourceSize": {"w":173,"h":128}
+	
+},
+"bird06.png":{
+	"frame": {"x":208,"y":321,"w":169,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":134},
+	"sourceSize": {"w":169,"h":134}
+	
+},
+
+"bird07.png":{
+	"frame": {"x":395,"y":321,"w":169,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":125},
+	"sourceSize": {"w":169,"h":125}
+	
+}},
+"meta": {
+	"app": "juego",
+	"version": "1.0",
+	"image": "bird.png",
+	"format": "RGBA8888",
+	"size": {"w":558,"h":458},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6101b2f6f84bd187cdbc518115729ede:c149e5e6552fd84b1e524e28820485df:14d39570012c955da3348251a25e281a$"
+}
+}
