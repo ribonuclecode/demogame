@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/lycBgpp.png "Imagen del Juego")
+
 # Demo
 Minijuego desarrollado cómo voluntario para un centro.
 
