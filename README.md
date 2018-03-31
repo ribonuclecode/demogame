@@ -1,16 +1,6 @@
 # Demo
 Minijuego desarrollado cómo voluntario para un centro.
 
-## Server
-- PHP
-
-## Client
-- HTML
-- CSS
-- Javascript:
-  - jQuery
-  - Pixi.js
-
 
 # Objetivos
 - [X] Prototipo de juego
