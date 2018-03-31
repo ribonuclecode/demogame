@@ -6,6 +6,6 @@ Minijuego desarrollado cómo voluntario para un centro.
 - [X] Prototipo de juego
 - [X] Crear nuevas partidas y actualizarlas.
 - [X] Pantalla principal con listado de juegos
-- [ ] Registro y Login para la plataforma
 - [ ] Borrar Partidas
+- [ ] Registro y Login para la plataforma
 - [ ] Exportar cómo proyectos locales
